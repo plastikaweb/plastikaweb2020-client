@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Contribution
+
+Use a feature branch to contribute to the project.
+It must be called with the id followed by a '-' and the name of the task separating words with '-'
+
+> f.e.: 433fj3-add-commitlint (Task number: 433fj3, Description: Add commitnint)
+
+This repository uses [commitizen](https://www.npmjs.com/package/commitizen) to format commit messages.  
+ Navigate to [git commit conventions](documentation/commit-conventions) to get more help on this topic.
